@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  BCamera
+
+  Created by UTOUU on 17/2/24.
+  Copyright © 2017年 王朝晖. All rights reserved.
+*/
+"NO" = "否";
+"OK" = "是";
+"CancelVideoHint?" = "放弃这段视频?";
+
+"Processing" = "处理中";
+"Success" = "成功";
+"Failed" = "失败";
